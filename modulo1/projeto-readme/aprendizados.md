@@ -1,0 +1,3 @@
+#Uma Nova Jornada#
+
+Na primeira semana do curso fomos apresentados as histórias de algumas ferramentas que usaremos daqui pra frente, sobre o que são e para que servem, **além de uma aula excelente sobre diversidade e respeito que é tão tão importante reforçar sempre que possível**. Aprendemos o conceito básico da computação, dos primeiros computadores, de sua evolução. Aprendemos sobre terminais e comandos para executar ações neles. Aprendemos sobre comandos de terminal como touch para criar arquivos, mkdir para criar pastas, cd para transitar entre as pastas entre outros. Em seguida aprendemos comandos para criarmos e trabalharmos em branches. Agora temos nossas primeiras experiências com no VSCode.
